@@ -1,12 +1,13 @@
 {
-  "name": "client",
-  "displayName": "client",
+  "name": "shopping-app",
+  "displayName": "shopping-app",
   "expo": {
-    "name": "client",
-    "slug": "client",
+    "name": "shopping-app",
+    "slug": "shopping-app",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "description": ""
   }
 }
